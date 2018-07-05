@@ -1,0 +1,18 @@
+h1{
+    color:green;
+    background-color:black;
+}
+
+.first{
+    color:yellow;
+    background-color: blueviolet;
+}
+.second{
+    color:black;
+    background-color: orange;
+}
+
+#dif{
+    color:orange;
+    background-color: blue;
+}
